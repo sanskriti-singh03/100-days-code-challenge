@@ -79,4 +79,8 @@ My goal is to enhance my problem solving skills and deepen my understanding of C
 - **`ouyput_day19_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/ouyput_day19_1.c
 - **`day19_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day19_2.c
 - **`output_19_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_19_2.c
+- **`day20_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/a309d4a171465ae9a6a88359eb5f521e042afa8c/day20_1.c
+- **`output_day20_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/a309d4a171465ae9a6a88359eb5f521e042afa8c/output_day20_1.c
+- **`day20_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/a309d4a171465ae9a6a88359eb5f521e042afa8c/day20_2.c
+- **`output_20_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/a309d4a171465ae9a6a88359eb5f521e042afa8c/output_20_2.c
   
