@@ -30,29 +30,53 @@ My goal is to enhance my problem solving skills and deepen my understanding of C
 - **`output_day7_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day7_1.c
 - **`day7_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day7_2.c
 - **`output_7_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_7_2.c
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **``**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- **` `**:
-- 
-
-- 
+- **`day8_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day8_1.c
+- **`output_day8_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day8_1.c
+- **`day8_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day8_2.c
+- **`output_8_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_8_2.c
+- **`day9_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day9_1.c
+- **`output_day9_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day9_1.c
+- **`day9_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day9_2.c
+- **`output_9_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_9_2.c
+- **`day10_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day10_1.c
+- **`output_day10_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day10_1.c
+- **`day10_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day10_2.c
+- **`output_10_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_10_2.c
+- **`day11_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day11_1.c
+- **`output_day11_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day11_1.c
+- **`day11_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day11_2.c
+- **`output_11_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_11_2.c
+- **`day12_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day12_1.c
+- **`output_day12_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day12_1.c
+- **`day12_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day12_2.c
+- **`output_12_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_12_2.c
+- **`day13_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day13_1.c
+- **`output_day13_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day13_1.c
+- **`day13_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day13_2.c
+- **`output_13_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_13_2.c
+- **`day14_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day14_1.c
+- **`output_day14_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day14_1.c
+- **`day14_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day14_2.c
+- **`output_14_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_14_2.c
+- **`day15_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day15_1.c
+- **`output_day15_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day15_1.c
+- **`day15_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day15_2.c
+- **`output_15_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_15_2.c
+- **`day16_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day16_1.c
+- **`output_day16_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day16_1.c
+- **`day16_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day16_2.c
+- **`output_16_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_16_2.c
+- **`day17_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day17_1.c
+- **`output_day17_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day17_1.c
+- **`output_day17_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day17_1.c
+- **`day17_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day17_2.c
+- **`output_17_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_17_2.c
+- **`day18_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day18_1.c
+- **`output_day18_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_day18_1.c**
+- **`day18_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day18_2.c
+- **`output_18_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_18_2.c
+- **`day19_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day19_1.c
+- **`ouyput_day19_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/ouyput_day19_1.c
+- **`day19_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/day19_2.c
+- **`output_19_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/669b425aeb7ba7c31b446c11dd812591bbfe2590/output_19_2.c
+  
