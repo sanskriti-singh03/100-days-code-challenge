@@ -6,3 +6,53 @@ My goal is to enhance my problem solving skills and deepen my understanding of C
 - **`output1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/cdc69fcbe58bdcd2625443767a59340429796f3a/output1.c
 - **`day_1(2nd).c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/cdc69fcbe58bdcd2625443767a59340429796f3a/day_1(2nd).c
 - **`output1_2nd.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/cdc69fcbe58bdcd2625443767a59340429796f3a/output1_2nd.c
+- **`day2_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day2_1.c
+- **`output_day2_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day2_1.c
+- **`day2_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day2_2.c
+- **`output_2_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_2_2.c
+- **`day3_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day3_1.c
+- **`output_day3_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day3_1.c
+- **`day3_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day3_2.c
+- **`output_3_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_3_2.c
+- **`day4_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day4_1.c
+- **`output_day4_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day4_1.c
+- **`day4_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day4_2.c
+- **`output_4_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_4_2.c
+- **`day5_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day5_1.c
+- **`output_day5_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day5_1.c
+- **`day5_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day5_2.c
+- **`output_5_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_5_2.cday6_1.c
+- **`day6_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day6_1.c
+- **`output_day6_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day6_1.c
+- **`day6_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day6_2.c
+- **`output_6_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_6_2.c
+- **`day7_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day7_1.c
+- **`output_day7_1.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_day7_1.c
+- **`day7_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/day7_2.c
+- **`output_7_2.c`**:https://github.com/sanskriti-singh03/100-days-code-challenge/blob/8ab1b8b85a0cd8245b96e276c4cb5509b1011e6e/output_7_2.c
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **``**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- **` `**:
+- 
+
+- 
