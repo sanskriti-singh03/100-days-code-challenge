@@ -3,17 +3,16 @@ import random
 import subprocess
 from datetime import datetime, timedelta
 
-# Change working directory
-os.chdir(r"D:\LeafDiseasesDataset\lirope\beefbesees\LeafDisease")
+# Correct path
+os.chdir("/Users/sanskriti/100 days of dsa/100-days-code-challenge")
 
-# Updated date range
 start_date = datetime(2026, 1, 15)
 end_date = datetime(2026, 3, 23)
 
 current = start_date
 
 while current <= end_date:
-    commits_today = random.randint(1, 5)  # or any range you want
+    commits_today = random.randint(1, 5)
     print(f"{current.date()} -> {commits_today} commits")
 
     for _ in range(commits_today):
@@ -25,8 +24,9 @@ while current <= end_date:
 
         date_str = commit_time.strftime("%Y-%m-%d %H:%M:%S")
 
+        # Ensure file changes every time
         with open("log.txt", "a") as f:
-            f.write(date_str + "\n")
+            f.write(date_str + "\n" + str(random.random()) + "\n")
 
         subprocess.run(["git", "add", "."], check=True)
 
